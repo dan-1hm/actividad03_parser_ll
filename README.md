@@ -53,7 +53,7 @@ Porque el analizador sintáctico (Parser CFG) es ciego a la semántica; su únic
 El analizador sintáctico LL demuestra cómo la estructura de una GLC puede traducirse directamente a funciones recursivas en C, utilizando la pila de llamadas del sistema operativo para simular el árbol de derivación. Sin embargo, este análisis queda estrictamente limitado a la validación geométrica de los tokens, dejando la resolución matemática, validación de variables (si existen o no) y compatibilidad de tipos fuera de su alcance, reservándolas para la fase de análisis semántico.
 
 ## URL del repositorio
-[TU_ENLACE_DE_GITHUB_AQUI]
+https://github.com/dan-1hm/actividad03_parser_ll.git
  
   
    
